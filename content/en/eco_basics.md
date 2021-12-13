@@ -1,7 +1,7 @@
 ---
 title: Economy Basics
 description: ''
-position: 4
+position: 3
 category: Economy
 ---
 

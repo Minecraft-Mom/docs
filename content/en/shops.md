@@ -51,7 +51,3 @@ If you `Right Click` on your own chest shop's sign, a menu will open in chat all
 
 <img src="/shops/5.jpg" width="640"></img>
 
-## Tips
-- You get a big bonus for every 24 hours of game time, allowing more active players to accrue more money.
-- Wandering traders are now more common and will buy different items each time they spawn.
-

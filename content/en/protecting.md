@@ -42,7 +42,7 @@ There are five levels of protection that players can choose:
 </table>
 
 ## Protecting a Chest
-Look at the chest you want to protect, then use one of the following chat commands:
+Use the following command that matches the protection you want (likely `/cprivate`), then `Left Click` the chest you wish to protect:
 - `/cprivate` - This is the most common option. Create a private chest.
 - `/cpublic` - Create a public chest that others cannot claim.
 - `/cpassword <password>` - Create a password-protected chest with the given password.
@@ -50,6 +50,9 @@ Look at the chest you want to protect, then use one of the following chat comman
 - `/cdisplay` - Create a display chest.
 
 <img src="/protection/1.jpg" width="640">
+
+## Persistant Mode
+Using the command `/cpersist` toggles persistant mode. Persistant mode makes whatever protection command you use apply to every chest you `Left Click` until persistant mode is turned off. This is useful for applying protection or adding another player to multiple chests without repeating a command.
 
 ## Allowing Players in Private Chest
 Each private chest can have various other players added to access the protecion using the `/cmodify` command. The owner of a chest cannot be removed from the protection.
@@ -68,3 +71,4 @@ If you want to change the protection type of a chest you will first need to remo
  
 ## Tips
 - While the above commands were listed for chests, most should work on doors as well.
+- You can use 

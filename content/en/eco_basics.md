@@ -13,13 +13,9 @@ You can use the following commands in chat:
 - `/pay <player> <amount>` - Give the specified player the specified amount of money
 
 ## Making Money
-The easiest way to make money is to just play on the server! All players make 20₲ for every hour they spend active on the server. Every 24 hours spent active on the server comes with a bonus 2000₲.
+The easiest way to make money is to sell items you do not need. You can use [Chest Shops](/shops) to sell items directly to other players. At the center of the spawn village, there is a hut where you can sell (almost) any item. Simply hold the item stack you want to sell, and you will be shown how much the server will pay for it. If you click, the item(s) will be sold.
 
-You can buy item from and sell items to other players using [Chest Shops](/shops).
-
-For extra income, players can sell items to Wandering Traders for cash certificates. These certificates can be used while held, adding the specified amount to the player's balance.
-
-<img src="/economy/2.jpg" width="640"></img>
+<img src="/economy/2.jpg" width="572"></img>
 
 ## Tips
 - You get a big bonus for every 24 hours of game time, allowing more active players to accrue more money.

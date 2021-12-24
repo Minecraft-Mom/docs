@@ -16,8 +16,3 @@ You can use the following commands in chat:
 The easiest way to make money is to sell items you do not need. You can use [Chest Shops](/shops) to sell items directly to other players. At the center of the spawn village, there is a hut where you can sell (almost) any item. Simply hold the item stack you want to sell, and you will be shown how much the server will pay for it. If you click, the item(s) will be sold.
 
 <img src="/economy/2.jpg" width="572"></img>
-
-## Tips
-- You get a big bonus for every 24 hours of game time, allowing more active players to accrue more money.
-- Wandering traders are now more common and will buy different items each time they spawn.
-
